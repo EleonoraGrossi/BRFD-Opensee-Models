@@ -24,14 +24,13 @@ The BRFD-SAM script creates:
 
 FILES & DIRECTORY STRUCTURE
 -----------------------------------------------------
-/BRFD-Opensee-Models/
-│
-├── /Output_BRFD_RNM/		- Automatically created folder with BRFD-RNM output data
-├── /Output_BRFD_SAM/		- Automatically created folder with BRFD-SAM output data
-├── BRFD-RNM.png			- BRFD-RNM model image in .png
-├── BRFD-RNM.tcl			- Main BRFD-RNM TCL script
-├── BRFD-SAM.tcl			- Main BRFD-SAM TCL script
-└── README.txt				- This file
+	/BRFD-Opensee-Models/
+	|__ /Output_BRFD_RNM/		- Automatically created folder with BRFD-RNM output data
+	|__ /Output_BRFD_SAM/		- Automatically created folder with BRFD-SAM output data
+	|__  BRFD-RNM.png			- BRFD-RNM model image in .png
+	|__  BRFD-RNM.tcl			- Main BRFD-RNM TCL script
+	|__  BRFD-SAM.tcl			- Main BRFD-SAM TCL script
+	|__  README.txt				- This file
 
 HOW TO RUN THE MODELS
 -----------------------------------------------------
