@@ -1,4 +1,4 @@
-# BRFD-Opensee-Models
+# BRFD-Opensees-Models
 Bidirectional Rotational Friction Damper Simplified and Refined Numerical Models (BRFD-SAM & BRFD-RNM) in OpenSees
 
 DESCRIPTION
